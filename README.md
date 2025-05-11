@@ -27,7 +27,7 @@ Built using the **Superstore Sales** dataset, this visualization project highlig
 
 ## 🛠️ Tools Used
 
-- [Power BI Desktop](https://powerbi.microsoft.com/)
+- Power BI Desktop
 - Excel (for initial data inspection)
 
 ---
