@@ -19,7 +19,7 @@ Built using the **Superstore Sales** dataset, this visualization project highlig
 
 ## 📂 Dataset
 
-- **Source**: [Kaggle – Superstore Sales Dashboard](https://www.kaggle.com)
+- **Source**: https://kaggle.com/datasets/2d5881c21a71e03599b1c5f88435cfc50fcc069f831f377f9c8c167cb14ebeb0
 - **Format**: Excel (.xlsx)
 - **Features**: Order Date, Sales, Profit, Quantity, Region, Segment, Category, Sub-Category, Customer Info
 
